@@ -10,7 +10,7 @@ A simple web application written in **TypeScript** using **Tailwind CSS**.
 
 ## Startup
 ```bash
-git clone https://github.com/My-Nickname/TypescriptPractice.git
+git clone https://github.com/Vlad-Mirzoian/TypescriptPractice.git
 cd TypescriptPractice
 npm install
 npm run dev
